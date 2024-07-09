@@ -29,4 +29,4 @@ The file “CoreFigureCode.R”, when run with the relevant data files in the wo
 -	**milo_slopes_ints**: A processed version of the above file with the best fit global epistasis slopes and intercepts from Johnson et al 2019
 
 
-Note that many sections depend on data files created in other sections, so it is best run all together, Total runtime is less than 10 minutes (on Mac 16GB Ram M1 chip laptop). 
+Note that many sections depend on data files created in other sections, so it is best run all together, Total runtime is ~4 hours (on Mac 16GB Ram M1 chip laptop), but the majority of this is in the simulations in the last section (Figure S13). Total runtime in ~15 minutes without S13. 
