@@ -1,5 +1,5 @@
 # Cross_Environment_Global_Epistasis
-This repository contains all relevant code for completing analyses and producing figures for the paper 'Environment-independent distribution of mutational effects emerges from microscopic epistasis'. To use this code, you will need an updated version of R.  To properly run this code ensure:
+This repository contains all relevant code for completing analyses and producing figures for the paper 'Environment-independent distribution of mutational effects emerges from microscopic epistasis'. The zenodo DOI associated is 10.5281/zenodo.12696536. To use this code, you will need an updated version of R.  To properly run this code ensure:
 1. You have installed all packages listed at the top of the script.
 2. You update the working directory (and, optionally, the path to save files) in the initial lines of the code. The code will only run if your working directory has all relevant files.
 
