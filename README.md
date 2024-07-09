@@ -27,7 +27,7 @@ The file “CoreFigureCode.R”, when run with the relevant data files in the wo
 -	**allExpGR_data.csv**: Contains estimates of the raw exponential growth rate of all mutants in the study
 -	**Milo_S_est.csv**: Contains fitness effects of mutations estimated from Johnson et al Science 2019
 -	**milo_slopes_ints**: A processed version of the above file with the best fit global epistasis slopes and intercepts from Johnson et al 2019
--	**allBC_s_ests.csv**: This contains the estimated fitness effects for all barcodes, and is neccessary only for Figure S3C. Unfortunately, it is to large to uplaod here, but it is available on request - ardellsarah773@gmail.com 
+-	**allBC_s_ests.csv**: This contains the estimated fitness effects for all barcodes, and is neccessary only for Figure S3C. Unfortunately, it is to large to uplaod here, but it is available on request - please reach out to the corresponding author of the manuscript
 
 
 Note that many sections depend on data files created in other sections, so it is best run all together, Total runtime is ~4 hours (on Mac 16GB Ram M1 chip laptop), but the majority of this is in the simulations in the last section (Figure S13). Total runtime in ~15 minutes without S13. 
