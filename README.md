@@ -3,7 +3,7 @@ This repository contains all relevant code for completing analyses and producing
 1. You have installed all packages listed at the top of the script.
 2. You update the working directory (and, optionally, the path to save files) in the initial lines of the code. The code will only run if your working directory has all relevant files.
 
-Unfortunately, the confirmation experiment BC count file is too large to upload here. It is available upon request. Please note that much of the script associated with the Redd-Desai model (E.g., supplementary figures S12-13) are directly reproduced with permission from Reddy and Desai eLife 2021 (https://github.com/greddy992/global_epistasis). 
+Unfortunately, the confirmation experiment BC count file is too large to upload here. It is available upon request. Please note that much of the script associated with the Reddy-Desai model (E.g., supplementary figures S12-13) are directly reproduced with permission from Reddy and Desai eLife 2021 (https://github.com/greddy992/global_epistasis). 
 
 The file “CoreFigureCode.R”, when run with the relevant data files in the working directory, will produce all main text and supplemental figures. Note that the following files are required and readily available in this repository):
 -	**df_s_ests_wGR** : Contains the average fitness effect estimates for all mutations in all strains and environments where we had sufficient measurements. Column names are as follows
